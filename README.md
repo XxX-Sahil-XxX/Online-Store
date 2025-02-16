@@ -6,12 +6,18 @@ Key Features:
 3) Rate Limiting and Bot Detection: Integrated ArcJet ensures security by mitigating bot activity, and brute force attacks while maintaining a smooth user experience.
 4) Responsive Design: Fully optimized for use on mobile, tablet, and desktop devices.
 
-Hosted At:https://online-store-pn0f.onrender.com/
+Check out the live version of the project here: https://online-store-pn0f.onrender.com/
 
-.env format:-
-PORT=
-PGUSER=
-PGPASSWORD=
-PGHOST=
-PGDATABASE=
-ARCJET_KEY=
+.env Setup:-
+
+PORT=...
+
+PGUSER=...
+
+PGPASSWORD=...
+
+PGHOST=...
+
+PGDATABASE=...
+
+ARCJET_KEY=...
